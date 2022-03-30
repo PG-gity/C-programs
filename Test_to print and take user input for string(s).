@@ -12,5 +12,5 @@ int main()
     puts(s1);
     gets(s);
     puts(s);
-    return 0;
+    return 0; 
 }
