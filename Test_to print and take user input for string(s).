@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+int main() 
+{
+	
+    int i;
+    char s1[30]="Hello, World!";
+    char s[30];
+    puts(s1);
+    gets(s);
+    puts(s);
+    return 0;
+}
